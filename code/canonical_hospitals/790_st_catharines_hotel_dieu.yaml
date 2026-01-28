@@ -1,0 +1,10 @@
+fac: '790'
+canonical_name: ST CATHARINES HOTEL DIEU
+moh_type: Chronic/Rehab Hospital
+aliases:
+  sunshine:
+    - name: hotel dieu shaver health and rehabilitation centre
+      unsafe: yes
+    - name: religious hospitallers of st joseph of the hotel dieu of st catharines
+      unsafe: yes
+

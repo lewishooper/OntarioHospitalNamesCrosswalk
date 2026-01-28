@@ -1,0 +1,12 @@
+fac: '714'
+canonical_name: LONDON ST JOSEPH'S
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+    - name: st. joseph's health care london
+      unsafe: yes
+    - name: st. joseph's health care, london
+      unsafe: yes
+    - name: st. josephs health care london
+      unsafe: yes
+

@@ -1,0 +1,20 @@
+fac: '644'
+canonical_name: CORNWALL HOTEL DIEU
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: hotel dieu hospital
+      unsafe: yes
+    - name: hotel dieu hospital / l'hpital hteldieu
+      unsafe: yes
+    - name: hotel dieu hospital / lhpital htel-dieu
+      unsafe: yes
+    - name: religious hospitallers of st. joseph of cornwall, ontario
+      unsafe: yes
+    - name: religious hospitallers of st. joseph of cornwall, ontario / religieuses
+        hospitalires de saint-joseph de cornwall, ontario
+      unsafe: yes
+    - name: religious hospitallers of st. joseph of cornwall, ontario / religieuses
+        hospitalires de saintjoseph de cornwall, ontario
+      unsafe: yes
+

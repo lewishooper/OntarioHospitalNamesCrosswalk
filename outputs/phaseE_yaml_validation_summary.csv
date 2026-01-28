@@ -1,0 +1,10 @@
+metric,value
+n_yaml_files,137
+n_unique_fac_yaml,137
+n_fac_duplicate_files,0
+n_fac_filename_mismatch,0
+n_missing_fac_in_yaml,0
+n_fac_with_no_aliases,0
+n_alias_norm_collisions_multi_fac,0
+n_bad_collisions_any_safe,0
+n_edge_cases,42

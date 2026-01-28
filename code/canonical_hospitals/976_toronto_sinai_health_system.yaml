@@ -1,0 +1,12 @@
+fac: '976'
+canonical_name: TORONTO SINAI HEALTH SYSTEM
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+    - name: bridgepoint hospital
+    - name: mount sinai hospital
+    - name: sinai health system
+prior_facs:
+  - '849'
+  - '842'
+

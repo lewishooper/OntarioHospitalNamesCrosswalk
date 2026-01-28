@@ -1,0 +1,9 @@
+fac: '963'
+canonical_name: MOUNT FOREST NORTH WELLINGTON HC
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: north wellington health care corp
+    - name: north wellington health care corporation
+      unsafe: yes
+

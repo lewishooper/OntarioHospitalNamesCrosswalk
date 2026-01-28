@@ -1,0 +1,12 @@
+fac: '971'
+canonical_name: SUDBURY ST.JOSEPH'S CONTINUING CARE
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: st. joseph's continuing care centre of sudbury
+      unsafe: yes
+    - name: st. joseph's health centre of sudbury
+      unsafe: yes
+    - name: st. josephs continuing care centre of sudbury
+      unsafe: yes
+

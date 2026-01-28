@@ -1,0 +1,10 @@
+fac: '674'
+canonical_name: HAMILTON ST JOSEPH'S
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+    - name: st. joseph's healthcare hamilton
+      unsafe: yes
+    - name: st. josephs healthcare hamilton
+      unsafe: yes
+

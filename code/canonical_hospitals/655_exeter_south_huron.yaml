@@ -1,0 +1,8 @@
+fac: '655'
+canonical_name: EXETER SOUTH HURON
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: south huron hospital association
+      unsafe: yes
+

@@ -1,0 +1,9 @@
+fac: '930'
+canonical_name: KITCHENER GRAND RIVER
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+    - name: grand river hospital
+    - name: grand river hospital corporation
+      unsafe: yes
+

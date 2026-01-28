@@ -1,0 +1,8 @@
+fac: '938'
+canonical_name: DYSART ET AL HALIBURTON HEALTH SER
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: haliburton highlands health services corporation
+      unsafe: yes
+

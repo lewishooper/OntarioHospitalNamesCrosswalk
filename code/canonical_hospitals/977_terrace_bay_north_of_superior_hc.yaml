@@ -1,0 +1,11 @@
+fac: '977'
+canonical_name: TERRACE BAY NORTH OF SUPERIOR HC
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: the mccausland hospital
+    - name: wilson memorial general hospital
+prior_facs:
+  - '819'
+  - '721'
+

@@ -1,0 +1,9 @@
+fac: '981'
+canonical_name: CHATHAM CHATHAM-KENT HEALTH ALLIANC
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+    - name: chatham-kent health alliance
+    - name: chathamkent health alliance
+prior_facs: '995'
+

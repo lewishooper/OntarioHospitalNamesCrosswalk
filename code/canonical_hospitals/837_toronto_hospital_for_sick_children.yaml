@@ -1,0 +1,7 @@
+fac: '837'
+canonical_name: TORONTO HOSPITAL FOR SICK CHILDREN
+moh_type: Specialty Children Hospital
+aliases:
+  sunshine:
+    - name: the hospital for sick children
+

@@ -1,0 +1,8 @@
+fac: '792'
+canonical_name: ST MARYS MEMORIAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: st. marys general hospital
+      unsafe: yes
+

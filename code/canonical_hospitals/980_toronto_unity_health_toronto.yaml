@@ -1,0 +1,18 @@
+fac: '980'
+canonical_name: TORONTO UNITY HEALTH TORONTO
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+    - name: providence healthcare
+    - name: providence st . joseph ' s and st . michael's healthcare
+      unsafe: yes
+    - name: st. joseph's health centre, toronto
+      unsafe: yes
+    - name: st. michael's hospital
+      unsafe: yes
+    - name: unity health toronto
+prior_facs:
+  - '773'
+  - '898'
+  - '852'
+

@@ -1,0 +1,10 @@
+fac: '957'
+canonical_name: BELLEVILLE QUINTE HEALTH CARE
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+    - name: queensway carleton hospital
+    - name: quinte health care
+    - name: quinte healthcare corporation
+      unsafe: yes
+

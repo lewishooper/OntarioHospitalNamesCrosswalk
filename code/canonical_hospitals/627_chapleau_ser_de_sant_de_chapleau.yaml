@@ -1,0 +1,7 @@
+fac: '627'
+canonical_name: CHAPLEAU SER DE SANTÉ DE CHAPLEAU
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: services de sant de chapleau health services
+

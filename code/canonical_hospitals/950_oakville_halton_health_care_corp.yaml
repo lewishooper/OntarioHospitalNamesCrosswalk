@@ -1,0 +1,9 @@
+fac: '950'
+canonical_name: OAKVILLE HALTON HEALTH CARE CORP
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+    - name: halton healthcare services
+    - name: halton healthcare services corporation
+      unsafe: yes
+

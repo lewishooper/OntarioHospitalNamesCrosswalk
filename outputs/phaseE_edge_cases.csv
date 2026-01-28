@@ -1,0 +1,43 @@
+edge_class,fac,canonical_name,name_raw,unsafe,path
+hotel_dieu,644,CORNWALL HOTEL DIEU,hotel dieu hospital,TRUE,code/canonical_hospitals/644_cornwall_hotel_dieu.yaml
+hotel_dieu,644,CORNWALL HOTEL DIEU,hotel dieu hospital / l'hpital hteldieu,TRUE,code/canonical_hospitals/644_cornwall_hotel_dieu.yaml
+hotel_dieu,644,CORNWALL HOTEL DIEU,hotel dieu hospital / lhpital htel-dieu,TRUE,code/canonical_hospitals/644_cornwall_hotel_dieu.yaml
+hotel_dieu,790,ST CATHARINES HOTEL DIEU,hotel dieu shaver health and rehabilitation centre,TRUE,code/canonical_hospitals/790_st_catharines_hotel_dieu.yaml
+hotel_dieu,790,ST CATHARINES HOTEL DIEU,religious hospitallers of st joseph of the hotel dieu of st catharines,TRUE,code/canonical_hospitals/790_st_catharines_hotel_dieu.yaml
+hotel_dieu,927,WINDSOR HOTEL DIEU GRACE,hotel-dieu grace hospital,TRUE,code/canonical_hospitals/927_windsor_hotel_dieu_grace.yaml
+network_or_corporate,611,BLIND RIVER NORTH SHORE HN,north of superior healthcare group,TRUE,code/canonical_hospitals/611_blind_river_north_shore_hn.yaml
+network_or_corporate,611,BLIND RIVER NORTH SHORE HN,north shore health network,TRUE,code/canonical_hospitals/611_blind_river_north_shore_hn.yaml
+network_or_corporate,611,BLIND RIVER NORTH SHORE HN,north shore health network reseau sante rive nord,TRUE,code/canonical_hospitals/611_blind_river_north_shore_hn.yaml
+network_or_corporate,651,OTTAWA ROYAL OTTAWA (PSYCH),royal ottawa health care group,FALSE,code/canonical_hospitals/651_ottawa_royal_ottawa_psych.yaml
+network_or_corporate,651,OTTAWA ROYAL OTTAWA (PSYCH),royal ottawa health care group / services de sant royal ottawa,FALSE,code/canonical_hospitals/651_ottawa_royal_ottawa_psych.yaml
+network_or_corporate,655,EXETER SOUTH HURON,south huron hospital association,TRUE,code/canonical_hospitals/655_exeter_south_huron.yaml
+network_or_corporate,723,MATHESON BINGHAM MEMORIAL,matheson / iroquois falls / cochrane group of health services,FALSE,code/canonical_hospitals/723_matheson_bingham_memorial.yaml
+network_or_corporate,723,MATHESON BINGHAM MEMORIAL,matheson/iroquois falls/cochrane group of health services,FALSE,code/canonical_hospitals/723_matheson_bingham_memorial.yaml
+network_or_corporate,809,SMOOTH ROCK FALLS,hpital de smooth rock falls hospital corporation,TRUE,code/canonical_hospitals/809_smooth_rock_falls.yaml
+network_or_corporate,930,KITCHENER GRAND RIVER,grand river hospital corporation,TRUE,code/canonical_hospitals/930_kitchener_grand_river.yaml
+network_or_corporate,938,DYSART ET AL HALIBURTON HEALTH SER,haliburton highlands health services corporation,TRUE,code/canonical_hospitals/938_dysart_et_al_haliburton_health_ser.yaml
+network_or_corporate,947,TORONTO UNIVERSITY HEALTH NETWORK,university health network,TRUE,code/canonical_hospitals/947_toronto_university_health_network.yaml
+network_or_corporate,950,OAKVILLE HALTON HEALTH CARE CORP,halton healthcare services corporation,TRUE,code/canonical_hospitals/950_oakville_halton_health_care_corp.yaml
+network_or_corporate,957,BELLEVILLE QUINTE HEALTH CARE,quinte healthcare corporation,TRUE,code/canonical_hospitals/957_belleville_quinte_health_care.yaml
+network_or_corporate,963,MOUNT FOREST NORTH WELLINGTON HC,north wellington health care corporation,TRUE,code/canonical_hospitals/963_mount_forest_north_wellington_hc.yaml
+network_or_corporate,979,TORONTO SCARBOROUGH HEALTH NETWORK,scarborough health network,TRUE,code/canonical_hospitals/979_toronto_scarborough_health_network.yaml
+st_joseph,644,CORNWALL HOTEL DIEU,"religious hospitallers of st. joseph of cornwall, ontario",TRUE,code/canonical_hospitals/644_cornwall_hotel_dieu.yaml
+st_joseph,644,CORNWALL HOTEL DIEU,"religious hospitallers of st. joseph of cornwall, ontario / religieuses hospitalires de saint-joseph de cornwall, ontario",TRUE,code/canonical_hospitals/644_cornwall_hotel_dieu.yaml
+st_joseph,644,CORNWALL HOTEL DIEU,"religious hospitallers of st. joseph of cornwall, ontario / religieuses hospitalires de saintjoseph de cornwall, ontario",TRUE,code/canonical_hospitals/644_cornwall_hotel_dieu.yaml
+st_joseph,650,ELLIOT LAKE ST JOSEPH'S,st. joseph's general hospital,TRUE,code/canonical_hospitals/650_elliot_lake_st_joseph_s.yaml
+st_joseph,650,ELLIOT LAKE ST JOSEPH'S,st. josephs general hospital,TRUE,code/canonical_hospitals/650_elliot_lake_st_joseph_s.yaml
+st_joseph,666,GUELPH ST JOSEPH'S HEALTH CENTRE,st. joseph's health centre guelph,TRUE,code/canonical_hospitals/666_guelph_st_joseph_s_health_centre.yaml
+st_joseph,666,GUELPH ST JOSEPH'S HEALTH CENTRE,"st. joseph's health centre, guelph",TRUE,code/canonical_hospitals/666_guelph_st_joseph_s_health_centre.yaml
+st_joseph,666,GUELPH ST JOSEPH'S HEALTH CENTRE,st. josephs health centre guelph,TRUE,code/canonical_hospitals/666_guelph_st_joseph_s_health_centre.yaml
+st_joseph,674,HAMILTON ST JOSEPH'S,st. joseph's healthcare hamilton,TRUE,code/canonical_hospitals/674_hamilton_st_joseph_s.yaml
+st_joseph,674,HAMILTON ST JOSEPH'S,st. josephs healthcare hamilton,TRUE,code/canonical_hospitals/674_hamilton_st_joseph_s.yaml
+st_joseph,714,LONDON ST JOSEPH'S,st. joseph's health care london,TRUE,code/canonical_hospitals/714_london_st_joseph_s.yaml
+st_joseph,714,LONDON ST JOSEPH'S,"st. joseph's health care, london",TRUE,code/canonical_hospitals/714_london_st_joseph_s.yaml
+st_joseph,714,LONDON ST JOSEPH'S,st. josephs health care london,TRUE,code/canonical_hospitals/714_london_st_joseph_s.yaml
+st_joseph,781,THUNDER BAY ST. JOSEPH'S,st. joseph's care group,TRUE,code/canonical_hospitals/781_thunder_bay_st_joseph_s.yaml
+st_joseph,781,THUNDER BAY ST. JOSEPH'S,st. josephs care group,TRUE,code/canonical_hospitals/781_thunder_bay_st_joseph_s.yaml
+st_joseph,971,SUDBURY ST.JOSEPH'S CONTINUING CARE,st. joseph's continuing care centre of sudbury,TRUE,code/canonical_hospitals/971_sudbury_st_joseph_s_continuing_care.yaml
+st_joseph,971,SUDBURY ST.JOSEPH'S CONTINUING CARE,st. joseph's health centre of sudbury,TRUE,code/canonical_hospitals/971_sudbury_st_joseph_s_continuing_care.yaml
+st_joseph,971,SUDBURY ST.JOSEPH'S CONTINUING CARE,st. josephs continuing care centre of sudbury,TRUE,code/canonical_hospitals/971_sudbury_st_joseph_s_continuing_care.yaml
+st_joseph,980,TORONTO UNITY HEALTH TORONTO,providence st . joseph ' s and st . michael's healthcare,TRUE,code/canonical_hospitals/980_toronto_unity_health_toronto.yaml
+st_joseph,980,TORONTO UNITY HEALTH TORONTO,"st. joseph's health centre, toronto",TRUE,code/canonical_hospitals/980_toronto_unity_health_toronto.yaml

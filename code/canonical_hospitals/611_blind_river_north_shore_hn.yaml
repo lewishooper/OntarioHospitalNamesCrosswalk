@@ -1,0 +1,17 @@
+fac: '611'
+canonical_name: BLIND RIVER NORTH SHORE HN
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: blind river district health centre
+    - name: blind river district health centre / pavillon sant du district de blind
+        river
+    - name: blind river district health centre / pavillon sante du district de blind
+        river
+    - name: north of superior healthcare group
+      unsafe: yes
+    - name: north shore health network
+      unsafe: yes
+    - name: north shore health network reseau sante rive nord
+      unsafe: yes
+

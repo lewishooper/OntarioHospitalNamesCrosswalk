@@ -1,0 +1,8 @@
+fac: '947'
+canonical_name: TORONTO UNIVERSITY HEALTH NETWORK
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+    - name: university health network
+      unsafe: yes
+

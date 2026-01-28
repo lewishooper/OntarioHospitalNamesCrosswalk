@@ -1,0 +1,10 @@
+fac: '650'
+canonical_name: ELLIOT LAKE ST JOSEPH'S
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: st. joseph's general hospital
+      unsafe: yes
+    - name: st. josephs general hospital
+      unsafe: yes
+

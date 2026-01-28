@@ -1,0 +1,14 @@
+fac: '979'
+canonical_name: TORONTO SCARBOROUGH HEALTH NETWORK
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+    - name: rouge valley health system
+    - name: scarborough and rouge hospital
+    - name: scarborough health network
+      unsafe: yes
+    - name: the scarborough hospital
+prior_facs:
+  - '954'
+  - '960'
+
