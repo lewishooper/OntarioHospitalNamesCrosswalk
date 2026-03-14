@@ -1,0 +1,12 @@
+fac: '826'
+canonical_name: KENORA LAKE-OF-THE-WOODS DISTRICT
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: lake of the woods district hospital
+  cihi:
+  - name: Lake of the Woods District Hospital Corporation (Ont.)
+    normalized: LAKE OF THE WOODS DISTRICT HOSPITAL CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

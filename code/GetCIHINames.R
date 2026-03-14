@@ -15,10 +15,7 @@ colnames(OntSepsis)<-make.names(Names)
  CIHINamesAndTypes<-OntSepsis %>%
    filter(Province.Territory=='Ontario') %>%
    filter(Hospital.Peer.Group!="–") %>%
-   select(Place.or.organization,Corporation,Hospital.Peer.Group)
+   select(Place.or.organization,Hospital.Peer.Group) %>% unique() %>%
+   rename(HospitalName=Place.or.organization,CIHI_Type=Hospital.Peer.Group)
  
-write_csv(CIHINamesAndTypes,"E:/Public/OntarioHospitalNamesCrosswalk/sources/CIHINamesAndTypes.csv")
-HowMany<-CIHINamesAndTypes%>%
-  group_by(Place.or.organization) %>%
-  mutate(NumCount=n()) %>% unique()
-  
+write_csv(CIHINamesAndTypes,"E:/Public/OntarioHospitalNamesCrosswalk/sources/CIHI.csv")

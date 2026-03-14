@@ -1,0 +1,12 @@
+fac: '654'
+canonical_name: ESPANOLA GENERAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: espanola general hospital
+  cihi:
+  - name: Espanola General Hospital (Ont.)
+    normalized: ESPANOLA GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

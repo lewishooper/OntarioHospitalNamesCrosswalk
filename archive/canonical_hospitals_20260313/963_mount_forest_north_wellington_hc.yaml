@@ -1,0 +1,16 @@
+fac: '963'
+canonical_name: MOUNT FOREST NORTH WELLINGTON HC
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: north wellington health care corp
+  - name: north wellington health care corporation
+    unsafe: yes
+  cihi:
+  - name: North Wellington Health Care Corporation (Ont.)
+    normalized: NORTH WELLINGTON HEALTH CARE CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: Partnership
+    notes: mergers

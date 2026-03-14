@@ -1,0 +1,12 @@
+fac: '953'
+canonical_name: TORONTO SUNNYBROOK HSC
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: sunnybrook health sciences centre
+  cihi:
+  - name: Sunnybrook Health Sciences Centre (Ont.)
+    normalized: SUNNYBROOK HEALTH SCIENCES CENTRE ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: auto_exact_norm

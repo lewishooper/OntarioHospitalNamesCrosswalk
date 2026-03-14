@@ -1,0 +1,12 @@
+fac: '970'
+canonical_name: BRANTFORD BRANT COMMUNITY
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: brant community healthcare system
+  cihi:
+  - name: Brant Community Healthcare System (Ont.)
+    normalized: BRANT COMMUNITY HEALTHCARE SYSTEM ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

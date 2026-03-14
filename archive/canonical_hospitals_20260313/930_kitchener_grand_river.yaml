@@ -1,0 +1,14 @@
+fac: '930'
+canonical_name: KITCHENER GRAND RIVER
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: grand river hospital
+  - name: grand river hospital corporation
+    unsafe: yes
+  cihi:
+  - name: Grand River Hospital (Ont.)
+    normalized: GRAND RIVER HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

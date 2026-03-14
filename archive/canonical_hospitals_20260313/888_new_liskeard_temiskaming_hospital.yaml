@@ -1,0 +1,12 @@
+fac: '888'
+canonical_name: NEW LISKEARD TEMISKAMING HOSPITAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: temiskaming hospital
+  cihi:
+  - name: Temiskaming Hospital (Ont.)
+    normalized: TEMISKAMING HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

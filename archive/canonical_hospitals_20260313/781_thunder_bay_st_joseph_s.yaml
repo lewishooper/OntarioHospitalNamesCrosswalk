@@ -1,0 +1,10 @@
+fac: '781'
+canonical_name: THUNDER BAY ST. JOSEPH'S
+moh_type: Chronic/Rehab Hospital
+aliases:
+  sunshine:
+    - name: st. joseph's care group
+      unsafe: yes
+    - name: st. josephs care group
+      unsafe: yes
+

@@ -1,0 +1,12 @@
+fac: '666'
+canonical_name: GUELPH ST JOSEPH'S HEALTH CENTRE
+moh_type: Small Hospital
+aliases:
+  sunshine:
+    - name: st. joseph's health centre guelph
+      unsafe: yes
+    - name: st. joseph's health centre, guelph
+      unsafe: yes
+    - name: st. josephs health centre guelph
+      unsafe: yes
+

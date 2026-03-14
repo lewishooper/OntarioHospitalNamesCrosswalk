@@ -1,0 +1,12 @@
+fac: '788'
+canonical_name: RENFREW VICTORIA
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: renfrew victoria hospital
+  cihi:
+  - name: Renfrew Victoria Hospital (Ont.)
+    normalized: RENFREW VICTORIA HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

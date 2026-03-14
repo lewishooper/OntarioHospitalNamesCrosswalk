@@ -1,0 +1,12 @@
+fac: '592'
+canonical_name: NAPANEE LENNOX & ADDINGTON
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: lennox and addington county general hospital
+  cihi:
+  - name: Lennox and Addington County General Hospital (Ont.)
+    normalized: LENNOX AND ADDINGTON COUNTY GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

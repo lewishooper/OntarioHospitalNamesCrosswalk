@@ -1,0 +1,13 @@
+fac: '687'
+canonical_name: KAPUSKASING SENSENBRENNER
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: sensenbrenner hospital
+  - name: sensenbrenner hospital / hpital sensenbrenner
+  cihi:
+  - name: Sensenbrenner Hospital (Ont.)
+    normalized: SENSENBRENNER HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

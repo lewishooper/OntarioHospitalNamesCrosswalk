@@ -1,0 +1,12 @@
+fac: '597'
+canonical_name: ALMONTE GENERAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: almonte general hospital
+  cihi:
+  - name: Almonte General Hospital (Ont.)
+    normalized: ALMONTE GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

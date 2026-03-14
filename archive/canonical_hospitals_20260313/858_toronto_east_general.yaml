@@ -1,0 +1,13 @@
+fac: '858'
+canonical_name: TORONTO EAST GENERAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: michael garron hospital
+  - name: toronto east general hospital
+  cihi:
+  - name: Michael Garron Hospital Corporation (Ont.)
+    normalized: MICHAEL GARRON HOSPITAL CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

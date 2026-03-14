@@ -1,0 +1,12 @@
+fac: '768'
+canonical_name: BARRY'S BAY ST FRANCIS
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: st. francis memorial hospital
+  cihi:
+  - name: St. Francis Memorial Hospital (Ont.)
+    normalized: ST FRANCIS MEMORIAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

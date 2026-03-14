@@ -1,0 +1,14 @@
+fac: '907'
+canonical_name: TIMMINS & DISTRICT GENERAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: timmins and district hospital
+  - name: timmins and district hospital / hpital de timmins et du district
+  - name: timmins and district hospital / l'hpital de timmins et du district
+  cihi:
+  - name: Timmins and District Hospital Corporation (Ont.)
+    normalized: TIMMINS AND DISTRICT HOSPITAL CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

@@ -1,0 +1,19 @@
+fac: '714'
+canonical_name: LONDON ST JOSEPH'S
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: st. joseph's health care london
+    unsafe: yes
+  - name: st. joseph's health care, london
+    unsafe: yes
+  - name: st. josephs health care london
+    unsafe: yes
+  cihi:
+  - name: St. Joseph’s Health Care London (Ont.)
+    normalized: ST JOSEPH S HEALTH CARE LONDON ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name

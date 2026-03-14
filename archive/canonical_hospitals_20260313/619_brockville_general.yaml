@@ -1,0 +1,12 @@
+fac: '619'
+canonical_name: BROCKVILLE GENERAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: brockville general hospital
+  cihi:
+  - name: Brockville General Hospital Corporation (Ont.)
+    normalized: BROCKVILLE GENERAL HOSPITAL CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

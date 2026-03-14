@@ -1,0 +1,14 @@
+fac: '955'
+canonical_name: GREY BRUCE HEALTH SERVICES
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: grey bruce health services
+  cihi:
+  - name: Brightshores Health System (Ont.)
+    normalized: BRIGHTSHORES HEALTH SYSTEM ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: override_reporting_id
+    override_reason: rebranding
+    notes: Was grey bruce health system

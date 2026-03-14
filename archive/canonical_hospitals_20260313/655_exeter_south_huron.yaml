@@ -1,0 +1,15 @@
+fac: '655'
+canonical_name: EXETER SOUTH HURON
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: south huron hospital association
+    unsafe: yes
+  cihi:
+  - name: South Huron Hospital (Ont.)
+    normalized: SOUTH HURON HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: ALLIANCE
+    notes: also 663

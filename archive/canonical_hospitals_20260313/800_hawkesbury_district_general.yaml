@@ -1,0 +1,16 @@
+fac: '800'
+canonical_name: HAWKESBURY & DISTRICT GENERAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: hawkesbury and district general hospital
+  - name: hpital gnral de hawkesbury and district general hospital
+  - name: hpital gnrale de hawkesbury and district general hospital
+  cihi:
+  - name: Hôpital général de Hawkesbury & District General Hospital (Ont.)
+    normalized: H PITAL G N RAL DE HAWKESBURY DISTRICT GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name

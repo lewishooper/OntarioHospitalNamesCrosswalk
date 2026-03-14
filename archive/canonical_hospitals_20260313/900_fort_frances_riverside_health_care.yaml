@@ -1,0 +1,14 @@
+fac: '900'
+canonical_name: FORT FRANCES RIVERSIDE HEALTH CARE
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: riverside health care facilities inc.
+  cihi:
+  - name: Riverside Health Care Facilities Inc. (Ont.)
+    normalized: RIVERSIDE HEALTH CARE FACILITIES INC ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: rebrand
+    notes: Common unsafe name

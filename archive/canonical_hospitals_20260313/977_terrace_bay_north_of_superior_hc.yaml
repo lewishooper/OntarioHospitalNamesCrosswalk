@@ -1,0 +1,18 @@
+fac: '977'
+canonical_name: TERRACE BAY NORTH OF SUPERIOR HC
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: the mccausland hospital
+  - name: wilson memorial general hospital
+  cihi:
+  - name: North of Superior Healthcare Group (Ont.)
+    normalized: NORTH OF SUPERIOR HEALTHCARE GROUP ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name
+prior_facs:
+- '819'
+- '721'

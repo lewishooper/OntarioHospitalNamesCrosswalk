@@ -1,0 +1,12 @@
+fac: '626'
+canonical_name: CARLETON PLACE & DISTRICT
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: carleton place and district memorial hospital
+  cihi:
+  - name: Carleton Place and District Memorial Hospital (Ont.)
+    normalized: CARLETON PLACE AND DISTRICT MEMORIAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

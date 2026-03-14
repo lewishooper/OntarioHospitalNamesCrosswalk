@@ -1,0 +1,16 @@
+schema_version: entity_v1
+entity_id: cihi_middlesex_hospital_alliance   # stable slug
+entity_name: Middlesex Hospital Alliance      # human display name
+entity_type: partnership                      # partnership | network | corporation | alliance | reporting_unit | other
+status: active                                # active | inactive | historical
+source_systems:
+  - cihi                                    # list; can include: cihi, governance, sunshine, moh, website
+member_facs:
+  - fac: "814"
+    role: partner
+  - fac: "656"
+    role: partner
+effective:
+  start_date: null                           # optional; ISO date if known
+  end_date: null                             # optional
+notes: "CIHI reports MHA as one entity; MOH FACs remain separate."

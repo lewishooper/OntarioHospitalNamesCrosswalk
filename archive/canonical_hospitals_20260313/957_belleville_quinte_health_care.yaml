@@ -1,0 +1,22 @@
+fac: '957'
+canonical_name: BELLEVILLE QUINTE HEALTH CARE
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: queensway carleton hospital
+  - name: quinte health care
+  - name: quinte healthcare corporation
+    unsafe: yes
+  cihi:
+  - name: Quinte Health (Ont.)
+    normalized: QUINTE HEALTH ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: corporate names
+  - name: Queensway Carleton Hospital Corporation (Ont.)
+    normalized: QUEENSWAY CARLETON HOSPITAL CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

@@ -1,0 +1,12 @@
+fac: '946'
+canonical_name: KINCARDINE SOUTH BRUCE GREY
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: south bruce grey health centre
+  cihi:
+  - name: South Bruce Grey Health Centre (Ont.)
+    normalized: SOUTH BRUCE GREY HEALTH CENTRE ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

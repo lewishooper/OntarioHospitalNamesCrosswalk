@@ -1,0 +1,13 @@
+fac: '862'
+canonical_name: TORONTO WOMEN'S COLLEGE
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: women's college hospital
+  - name: womens college hospital
+  cihi:
+  - name: Women’s College Hospital (Ont.)
+    normalized: WOMEN S COLLEGE HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

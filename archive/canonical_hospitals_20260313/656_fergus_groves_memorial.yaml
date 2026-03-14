@@ -1,0 +1,19 @@
+fac: '656'
+canonical_name: FERGUS GROVES MEMORIAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: groves memorial community hospital
+  cihi:
+  - name: North Wellington Health Care Corporation (Ont.)
+    normalized: NORTH WELLINGTON HEALTH CARE CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: Partnership
+    notes: mergers
+  - name: Groves Memorial Community Hospital (Ont.)
+    normalized: GROVES MEMORIAL COMMUNITY HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

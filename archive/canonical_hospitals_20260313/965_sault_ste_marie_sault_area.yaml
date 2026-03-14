@@ -1,0 +1,14 @@
+fac: '965'
+canonical_name: SAULT STE MARIE SAULT AREA
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: sault area hospital
+  - name: sault area hospital / hpital de sault-sainte-marie
+  - name: sault area hospital / hpital de saultsaintemarie
+  cihi:
+  - name: Sault Area Hospital (Ont.)
+    normalized: SAULT AREA HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

@@ -1,0 +1,12 @@
+fac: '646'
+canonical_name: DEEP RIVER AND DISTRICT
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: deep river and district hospital
+  cihi:
+  - name: Deep River and District Hospital (Ont.)
+    normalized: DEEP RIVER AND DISTRICT HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

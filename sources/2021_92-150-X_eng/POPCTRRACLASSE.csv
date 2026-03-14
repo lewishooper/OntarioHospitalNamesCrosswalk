@@ -1,0 +1,5 @@
+TYPE,DESC,FDESC
+1,Rural area,Région rurale
+2,"Small population centre (1,000 to 29,999)",Petit centre de population (de 1 000 à 29 999 habitants)
+3,"Medium population centre (30,000 to 99,999)",Moyen centre de population (de 30 000 à 99 999 habitants)
+4,"Large urban population centre (100,000 or more)",Grand centre de population urbain (100 000 habitants et plus)

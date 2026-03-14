@@ -1,0 +1,12 @@
+fac: '952'
+canonical_name: OSHAWA LAKERIDGE HEALTH
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: lakeridge health
+  cihi:
+  - name: Lakeridge Health (Ont.)
+    normalized: LAKERIDGE HEALTH ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

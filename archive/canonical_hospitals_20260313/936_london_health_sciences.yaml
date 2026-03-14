@@ -1,0 +1,12 @@
+fac: '936'
+canonical_name: LONDON HEALTH SCIENCES
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: london health sciences centre
+  cihi:
+  - name: London Health Sciences Centre (Ont.)
+    normalized: LONDON HEALTH SCIENCES CENTRE ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: auto_exact_norm

@@ -1,0 +1,13 @@
+fac: '881'
+canonical_name: STURGEON FALLS WEST NIPISSING
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: west nipissing general hospital
+  - name: west nipissing general hospital / hpital gnral de nipissing ouest
+  cihi:
+  - name: West Nipissing General Hospital (Ont.)
+    normalized: WEST NIPISSING GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

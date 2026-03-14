@@ -1,0 +1,13 @@
+fac: '647'
+canonical_name: DRYDEN REGIONAL HEALTH CENTRE
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: dryden regional health centre
+  - name: dryden regional health centre / centre rgional de sant de dryden
+  cihi:
+  - name: Dryden Regional Health Centre (Ont.)
+    normalized: DRYDEN REGIONAL HEALTH CENTRE ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

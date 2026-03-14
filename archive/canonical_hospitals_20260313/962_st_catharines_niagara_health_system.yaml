@@ -1,0 +1,14 @@
+fac: '962'
+canonical_name: ST CATHARINES NIAGARA HEALTH SYSTEM
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: niagara health
+  - name: niagara health system
+  - name: niagara health system / systme de sant de niagara
+  cihi:
+  - name: Niagara Health System (Ont.)
+    normalized: NIAGARA HEALTH SYSTEM ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

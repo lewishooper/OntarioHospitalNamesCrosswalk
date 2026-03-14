@@ -1,0 +1,12 @@
+fac: '973'
+canonical_name: MOOSE FACTORY WEENEEBAYKO AREA
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: weeneebayko area health authority
+  cihi:
+  - name: Weeneebayko Area Health Authority (Ont.)
+    normalized: WEENEEBAYKO AREA HEALTH AUTHORITY ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

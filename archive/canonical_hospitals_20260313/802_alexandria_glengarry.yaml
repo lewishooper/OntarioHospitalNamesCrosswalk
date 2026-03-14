@@ -1,0 +1,15 @@
+fac: '802'
+canonical_name: ALEXANDRIA GLENGARRY
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: glengarry memorial hospital
+  - name: hpital glengarry memorial hospital
+  cihi:
+  - name: Hôpital Glengarry Memorial Hospital (Ont.)
+    normalized: H PITAL GLENGARRY MEMORIAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name

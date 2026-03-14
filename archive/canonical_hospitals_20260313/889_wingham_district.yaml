@@ -1,0 +1,12 @@
+fac: '889'
+canonical_name: WINGHAM & DISTRICT
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: wingham and district hospital
+  cihi:
+  - name: Wingham and District Hospital (Ont.)
+    normalized: WINGHAM AND DISTRICT HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

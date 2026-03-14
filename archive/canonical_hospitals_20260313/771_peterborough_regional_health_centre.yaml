@@ -1,0 +1,12 @@
+fac: '771'
+canonical_name: PETERBOROUGH REGIONAL HEALTH CENTRE
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: peterborough regional health centre
+  cihi:
+  - name: Peterborough Reg. HCtr Corp. — Peterborough Regional Health Centre (Ont.)
+    normalized: PETERBOROUGH REG HCTR CORP PETERBOROUGH REGIONAL HEALTH CENTRE ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

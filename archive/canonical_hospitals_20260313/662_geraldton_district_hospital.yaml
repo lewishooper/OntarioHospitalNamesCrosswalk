@@ -1,0 +1,13 @@
+fac: '662'
+canonical_name: GERALDTON DISTRICT HOSPITAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: geraldton district hospital
+  - name: geraldton district hospital / hpital de district de geraldton
+  cihi:
+  - name: Geraldton District Hospital (Ont.)
+    normalized: GERALDTON DISTRICT HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

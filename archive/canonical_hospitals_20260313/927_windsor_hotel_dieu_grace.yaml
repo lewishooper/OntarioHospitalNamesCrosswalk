@@ -1,0 +1,10 @@
+fac: '927'
+canonical_name: WINDSOR HOTEL DIEU GRACE
+moh_type: Chronic/Rehab Hospital
+aliases:
+  sunshine:
+    - name: hotel-dieu grace hospital
+      unsafe: yes
+    - name: hoteldieu grace hospital
+    - name: htel-dieu grace healthcare
+

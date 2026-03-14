@@ -1,0 +1,13 @@
+fac: '718'
+canonical_name: BURLINGTON JOSEPH BRANT HOSPITAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: joseph brant hospital
+  - name: joseph brant memorial hospital
+  cihi:
+  - name: Joseph Brant Hospital Corporation (Ont.)
+    normalized: JOSEPH BRANT HOSPITAL CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

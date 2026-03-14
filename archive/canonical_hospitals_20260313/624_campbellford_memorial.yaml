@@ -1,0 +1,12 @@
+fac: '624'
+canonical_name: CAMPBELLFORD MEMORIAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: campbellford memorial hospital
+  cihi:
+  - name: Campbellford Memorial Hospital (Ont.)
+    normalized: CAMPBELLFORD MEMORIAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

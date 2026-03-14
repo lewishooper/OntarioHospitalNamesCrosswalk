@@ -1,0 +1,12 @@
+fac: '676'
+canonical_name: HANOVER & DISTRICT
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: hanover and district hospital
+  cihi:
+  - name: Hanover and District Hospital (Ont.)
+    normalized: HANOVER AND DISTRICT HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

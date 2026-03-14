@@ -1,0 +1,16 @@
+fac: '959'
+canonical_name: SUDBURY HEALTH SCIENCES NORTH
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: health sciences north
+  - name: health sciences north / horizon sant-nord
+  - name: hpital rgional de sudbury regional hospital
+  cihi:
+  - name: Health Sciences North Corporation / Association Horizon Santé-Nord (Ont.)
+    normalized: HEALTH SCIENCES NORTH CORPORATION ASSOCIATION HORIZON SANT NORD ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: corporate names

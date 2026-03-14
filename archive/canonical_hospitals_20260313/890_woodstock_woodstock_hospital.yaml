@@ -1,0 +1,14 @@
+fac: '890'
+canonical_name: WOODSTOCK WOODSTOCK HOSPITAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: woodstock general hospital trust
+  - name: woodstock hospital
+  - name: woodstock hospital / hpital de woodstock
+  cihi:
+  - name: Woodstock Hospital (Ont.)
+    normalized: WOODSTOCK HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

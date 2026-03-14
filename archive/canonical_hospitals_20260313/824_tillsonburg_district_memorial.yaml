@@ -1,0 +1,12 @@
+fac: '824'
+canonical_name: TILLSONBURG DISTRICT MEMORIAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: tillsonburg district memorial hospital
+  cihi:
+  - name: Tillsonburg District Memorial Hospital (Ont.)
+    normalized: TILLSONBURG DISTRICT MEMORIAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

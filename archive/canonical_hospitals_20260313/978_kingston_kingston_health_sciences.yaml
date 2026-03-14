@@ -1,0 +1,14 @@
+fac: '978'
+canonical_name: KINGSTON KINGSTON HEALTH SCIENCES
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: kingston general hospital
+  - name: kingston general hospital / hpital gnral de kingston
+  - name: kingston health sciences centre
+  cihi:
+  - name: Kingston Health Sciences Centre (Ont.)
+    normalized: KINGSTON HEALTH SCIENCES CENTRE ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: auto_exact_norm

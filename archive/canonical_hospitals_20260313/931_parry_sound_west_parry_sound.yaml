@@ -1,0 +1,12 @@
+fac: '931'
+canonical_name: PARRY SOUND WEST PARRY SOUND
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: west parry sound health centre
+  cihi:
+  - name: West Parry Sound Health Centre (Ont.)
+    normalized: WEST PARRY SOUND HEALTH CENTRE ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

@@ -1,0 +1,14 @@
+fac: '681'
+canonical_name: HEARST NOTRE DAME
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: hpital notre-dame hospital (hearst)
+  cihi:
+  - name: Hôpital Notre-Dame Hospital (Ont.)
+    normalized: H PITAL NOTRE DAME HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name

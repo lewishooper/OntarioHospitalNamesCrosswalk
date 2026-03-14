@@ -1,0 +1,12 @@
+fac: '632'
+canonical_name: TORONTO NORTH YORK GENERAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: north york general hospital
+  cihi:
+  - name: North York General Hospital (Ont.)
+    normalized: NORTH YORK GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

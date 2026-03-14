@@ -1,0 +1,12 @@
+fac: '732'
+canonical_name: KEMPTVILLE DISTRICT
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: kemptville district hospital
+  cihi:
+  - name: Kemptville District Hospital (Ont.)
+    normalized: KEMPTVILLE DISTRICT HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

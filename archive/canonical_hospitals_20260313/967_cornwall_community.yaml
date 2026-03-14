@@ -1,0 +1,13 @@
+fac: '967'
+canonical_name: CORNWALL COMMUNITY
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: cornwall community hospital
+  - name: cornwall community hospital / hpital communautaire de cornwall
+  cihi:
+  - name: Cornwall Community Hospital (Ont.)
+    normalized: CORNWALL COMMUNITY HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

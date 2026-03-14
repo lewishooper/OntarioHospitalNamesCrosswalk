@@ -1,0 +1,14 @@
+fac: '745'
+canonical_name: ORILLIA SOLDIERS' MEMORIAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: orillia soldiers memorial hospital
+  cihi:
+  - name: Orillia Soldiers' Mem. Hosp. Corp. — Orillia Soldiers’ Mem. Hosp. (Ont.)
+    normalized: ORILLIA SOLDIERS MEM HOSP CORP ORILLIA SOLDIERS MEM HOSP ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: corporate names

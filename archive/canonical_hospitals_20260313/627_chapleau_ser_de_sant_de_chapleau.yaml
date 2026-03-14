@@ -1,0 +1,14 @@
+fac: '627'
+canonical_name: CHAPLEAU SER DE SANTÉ DE CHAPLEAU
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: services de sant de chapleau health services
+  cihi:
+  - name: Services de santé de Chapleau Health Services (Ont.)
+    normalized: SERVICES DE SANT DE CHAPLEAU HEALTH SERVICES ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: FRP
+    notes: Common unsafe name

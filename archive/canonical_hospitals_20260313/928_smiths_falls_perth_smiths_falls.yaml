@@ -1,0 +1,12 @@
+fac: '928'
+canonical_name: SMITHS FALLS PERTH & SMITHS FALLS
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: perth and smiths falls district hospital
+  cihi:
+  - name: Perth and Smiths Falls District Hospital (Ont.)
+    normalized: PERTH AND SMITHS FALLS DISTRICT HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

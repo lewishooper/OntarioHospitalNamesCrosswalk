@@ -1,0 +1,18 @@
+fac: '648'
+canonical_name: DUNNVILLE HALDIMAND WAR MEMORIAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: haldimand war memorial hospital
+  - name: haliburton highlands health services
+  cihi:
+  - name: Haliburton Highlands Health Services (Ont.)
+    normalized: HALIBURTON HIGHLANDS HEALTH SERVICES ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm
+  - name: Haldimand War Memorial Hospital (Ont.)
+    normalized: HALDIMAND WAR MEMORIAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

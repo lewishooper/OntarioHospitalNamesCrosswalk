@@ -1,0 +1,14 @@
+fac: '837'
+canonical_name: TORONTO HOSPITAL FOR SICK CHILDREN
+moh_type: Specialty Children Hospital
+aliases:
+  sunshine:
+  - name: the hospital for sick children
+  cihi:
+  - name: Hospital for Sick Children (Ont.)
+    normalized: HOSPITAL FOR SICK CHILDREN ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name

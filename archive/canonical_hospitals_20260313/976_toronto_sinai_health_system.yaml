@@ -1,0 +1,17 @@
+fac: '976'
+canonical_name: TORONTO SINAI HEALTH SYSTEM
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: bridgepoint hospital
+  - name: mount sinai hospital
+  - name: sinai health system
+  cihi:
+  - name: Sinai Health System (Ont.)
+    normalized: SINAI HEALTH SYSTEM ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: auto_exact_norm
+prior_facs:
+- '849'
+- '842'

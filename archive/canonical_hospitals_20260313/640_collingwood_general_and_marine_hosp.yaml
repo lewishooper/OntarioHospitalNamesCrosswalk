@@ -1,0 +1,12 @@
+fac: '640'
+canonical_name: COLLINGWOOD GENERAL AND MARINE HOSP
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: collingwood general and marine hospital
+  cihi:
+  - name: Collingwood General and Marine Hospital Corporation (Ont.)
+    normalized: COLLINGWOOD GENERAL AND MARINE HOSPITAL CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

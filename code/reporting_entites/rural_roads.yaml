@@ -1,0 +1,17 @@
+schema_version: entity_v1
+entity_id: rural_roads
+entity_name: Rural Roads
+entity_type: partnership
+status: active
+source_systems:
+  - governance
+  - website
+member_facs:
+  - fac: "684"
+    role: partner
+  - fac: "824"
+    role: partner
+effective:
+  start_date: null
+  end_date: null
+notes: "Single board/CEO; FACs remain separate."

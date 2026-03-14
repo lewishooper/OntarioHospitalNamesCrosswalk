@@ -1,0 +1,14 @@
+fac: '753'
+canonical_name: OTTAWA MONTFORT
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: hpital montfort
+  cihi:
+  - name: Hôpital Montfort Corporation (Ont.)
+    normalized: H PITAL MONTFORT CORPORATION ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name

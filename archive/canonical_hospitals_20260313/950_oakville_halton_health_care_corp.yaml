@@ -1,0 +1,14 @@
+fac: '950'
+canonical_name: OAKVILLE HALTON HEALTH CARE CORP
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: halton healthcare services
+  - name: halton healthcare services corporation
+    unsafe: yes
+  cihi:
+  - name: Halton Healthcare Services (Ont.)
+    normalized: HALTON HEALTHCARE SERVICES ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

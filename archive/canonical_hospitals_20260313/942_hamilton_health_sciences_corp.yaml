@@ -1,0 +1,13 @@
+fac: '942'
+canonical_name: HAMILTON HEALTH SCIENCES CORP
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: hamilton health sciences
+  - name: west lincoln memorial hospital
+  cihi:
+  - name: Hamilton Health Sciences (Ont.)
+    normalized: HAMILTON HEALTH SCIENCES ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: auto_exact_norm

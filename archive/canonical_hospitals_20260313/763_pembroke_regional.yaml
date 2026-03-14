@@ -1,0 +1,13 @@
+fac: '763'
+canonical_name: PEMBROKE REGIONAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: pembroke regional hospital
+  - name: pembroke regional hospital inc.
+  cihi:
+  - name: Pembroke Regional Hospital Inc. (Ont.)
+    normalized: PEMBROKE REGIONAL HOSPITAL INC ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

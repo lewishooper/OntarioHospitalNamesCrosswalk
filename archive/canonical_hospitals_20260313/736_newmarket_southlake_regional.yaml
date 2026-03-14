@@ -1,0 +1,12 @@
+fac: '736'
+canonical_name: NEWMARKET SOUTHLAKE REGIONAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: southlake regional health centre
+  cihi:
+  - name: Southlake Regional Health Centre (Ont.)
+    normalized: SOUTHLAKE REGIONAL HEALTH CENTRE ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

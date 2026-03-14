@@ -1,0 +1,14 @@
+fac: '935'
+canonical_name: THUNDER BAY REGIONAL HEALTH SCIENCE
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: thunder bay regional health sciences centre
+  - name: thunder bay regional health sciences centre / centre rgional des sciences
+      de la sant de thunder bay
+  cihi:
+  - name: Thunder Bay Regional Health Sciences Centre (Ont.)
+    normalized: THUNDER BAY REGIONAL HEALTH SCIENCES CENTRE ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: auto_exact_norm

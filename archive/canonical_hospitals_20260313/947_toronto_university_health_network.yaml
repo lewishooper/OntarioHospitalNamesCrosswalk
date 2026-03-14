@@ -1,0 +1,15 @@
+fac: '947'
+canonical_name: TORONTO UNIVERSITY HEALTH NETWORK
+moh_type: Teaching Hospital
+aliases:
+  sunshine:
+  - name: university health network
+    unsafe: yes
+  cihi:
+  - name: University Health Network (Ont.)
+    normalized: UNIVERSITY HEALTH NETWORK ONT
+    source_year: 2025
+    cihi_type: Teaching
+    match_status: override_reporting_id
+    override_reason: rebranding
+    notes: Common unsafe name

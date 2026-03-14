@@ -1,0 +1,15 @@
+fac: '941'
+canonical_name: TORONTO HUMBER RIVER REGIONAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: humber river hospital
+  - name: humber river regional hospital
+  cihi:
+  - name: Humber River Health (Ont.)
+    normalized: HUMBER RIVER HEALTH ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name

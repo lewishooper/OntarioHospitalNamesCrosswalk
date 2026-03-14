@@ -1,0 +1,8 @@
+fac: '699'
+canonical_name: KITCHENER ST MARY'S
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+    - name: st. mary's general hospital
+      unsafe: yes
+

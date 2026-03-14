@@ -1,0 +1,12 @@
+fac: '734'
+canonical_name: HALDIMAND WEST HALDIMAND GENERAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: west haldimand general hospital
+  cihi:
+  - name: West Haldimand General Hospital (Ont.)
+    normalized: WEST HALDIMAND GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

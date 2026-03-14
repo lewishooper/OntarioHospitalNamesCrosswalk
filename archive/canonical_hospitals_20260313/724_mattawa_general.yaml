@@ -1,0 +1,15 @@
+fac: '724'
+canonical_name: MATTAWA GENERAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: hopital de mattawa hospital inc.
+  - name: hpital de mattawa hospital inc.
+  cihi:
+  - name: Hôpital de Mattawa Hospital (Ont.)
+    normalized: H PITAL DE MATTAWA HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name

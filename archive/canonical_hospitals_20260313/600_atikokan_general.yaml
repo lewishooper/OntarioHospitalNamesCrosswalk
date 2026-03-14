@@ -1,0 +1,12 @@
+fac: '600'
+canonical_name: ATIKOKAN GENERAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: atikokan general hospital
+  cihi:
+  - name: Atikokan General Hospital (Ont.)
+    normalized: ATIKOKAN GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

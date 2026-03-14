@@ -1,0 +1,15 @@
+fac: '792'
+canonical_name: ST MARYS MEMORIAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: st. marys general hospital
+    unsafe: yes
+  cihi:
+  - name: St. Mary’s General Hospital Corporation (Ont.)
+    normalized: ST MARY S GENERAL HOSPITAL CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name

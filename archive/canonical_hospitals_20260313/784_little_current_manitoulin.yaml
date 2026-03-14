@@ -1,0 +1,12 @@
+fac: '784'
+canonical_name: LITTLE CURRENT MANITOULIN
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: manitoulin health centre
+  cihi:
+  - name: Manitoulin Health Centre (Ont.)
+    normalized: MANITOULIN HEALTH CENTRE ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

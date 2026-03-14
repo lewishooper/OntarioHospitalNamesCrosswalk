@@ -1,0 +1,13 @@
+fac: '682'
+canonical_name: HORNEPAYNE COMMUNITY
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: hornepayne community hospital
+  - name: hornepayne community hospital / hpital communautaire de hornepayne
+  cihi:
+  - name: Hornepayne Community Hospital (Ont.)
+    normalized: HORNEPAYNE COMMUNITY HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

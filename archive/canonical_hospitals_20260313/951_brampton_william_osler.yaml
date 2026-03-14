@@ -1,0 +1,12 @@
+fac: '951'
+canonical_name: BRAMPTON WILLIAM OSLER
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: william osler health system
+  cihi:
+  - name: William Osler Health System (Ont.)
+    normalized: WILLIAM OSLER HEALTH SYSTEM ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

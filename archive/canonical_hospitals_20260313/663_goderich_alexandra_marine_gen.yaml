@@ -1,0 +1,19 @@
+fac: '663'
+canonical_name: GODERICH ALEXANDRA MARINE & GEN
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: alexandra marine and general hospital
+  cihi:
+  - name: Alexandra Marine and General Hospital (Ont.)
+    normalized: ALEXANDRA MARINE AND GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm
+  - name: Alexandra Hospital (Ont.)
+    normalized: ALEXANDRA HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: alliance
+    notes: also 663

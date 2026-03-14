@@ -1,0 +1,12 @@
+fac: '709'
+canonical_name: LISTOWEL MEMORIAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: listowel memorial hospital
+  cihi:
+  - name: Listowel Memorial Hospital (Ont.)
+    normalized: LISTOWEL MEMORIAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

@@ -1,0 +1,14 @@
+fac: '726'
+canonical_name: MIDLAND GEORGIAN BAY GEN HOSPITAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: georgian bay general hospital
+  - name: georgian bay general hospital / hpital gnral de la baie georgienne
+  - name: georgian bay general hospital/hopital general de la baie georgienne
+  cihi:
+  - name: Georgian Bay General Hospital (Ont.)
+    normalized: GEORGIAN BAY GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

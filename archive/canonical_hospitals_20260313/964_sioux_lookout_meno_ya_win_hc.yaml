@@ -1,0 +1,12 @@
+fac: '964'
+canonical_name: SIOUX LOOKOUT MENO-YA-WIN HC
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: sioux lookout meno ya win health centre
+  cihi:
+  - name: Sioux Lookout Meno Ya Win Health Centre (Ont.)
+    normalized: SIOUX LOOKOUT MENO YA WIN HEALTH CENTRE ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

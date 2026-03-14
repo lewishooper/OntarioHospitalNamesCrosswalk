@@ -1,0 +1,12 @@
+fac: '661'
+canonical_name: CAMBRIDGE MEMORIAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: cambridge memorial hospital
+  cihi:
+  - name: Cambridge Memorial Hospital Corporation (Ont.)
+    normalized: CAMBRIDGE MEMORIAL HOSPITAL CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

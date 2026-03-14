@@ -1,0 +1,12 @@
+fac: '739'
+canonical_name: NIPIGON DISTRICT MEMORIAL
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: nipigon district memorial hospital
+  cihi:
+  - name: Nipigon District Memorial Hospital (Ont.)
+    normalized: NIPIGON DISTRICT MEMORIAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

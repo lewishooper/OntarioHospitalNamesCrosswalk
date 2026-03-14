@@ -1,0 +1,12 @@
+fac: '701'
+canonical_name: RICHMOND HILL MACKENZIE HEALTH
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: mackenzie health
+  cihi:
+  - name: Mackenzie Health (Ont.)
+    normalized: MACKENZIE HEALTH ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

@@ -1,0 +1,13 @@
+fac: '665'
+canonical_name: GUELPH GENERAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: guelph general hospital
+  - name: guelph general hospital / hpital gnral de guelph
+  cihi:
+  - name: Guelph General Hospital Corporation (Ont.)
+    normalized: GUELPH GENERAL HOSPITAL CORPORATION ONT
+    source_year: 2025
+    cihi_type: Community—Large
+    match_status: auto_exact_norm

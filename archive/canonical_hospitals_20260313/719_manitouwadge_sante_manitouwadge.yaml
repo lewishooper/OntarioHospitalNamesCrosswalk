@@ -1,0 +1,16 @@
+fac: '719'
+canonical_name: MANITOUWADGE SANTE MANITOUWADGE
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: manitouwadge general hospital
+  - name: manitouwadge general hospital / hpital gnral de manitouwadge
+  - name: sant manitouwadge health
+  cihi:
+  - name: Santé Manitouwadge Health (Ont.)
+    normalized: SANT MANITOUWADGE HEALTH ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: override_reporting_id
+    override_reason: manual
+    notes: Common unsafe name

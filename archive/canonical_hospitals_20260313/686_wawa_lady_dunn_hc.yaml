@@ -1,0 +1,12 @@
+fac: '686'
+canonical_name: WAWA LADY DUNN HC
+moh_type: Small Hospital
+aliases:
+  sunshine:
+  - name: lady dunn health centre
+  cihi:
+  - name: Lady Dunn Health Centre (Ont.)
+    normalized: LADY DUNN HEALTH CENTRE ONT
+    source_year: 2025
+    cihi_type: Community—Small
+    match_status: auto_exact_norm

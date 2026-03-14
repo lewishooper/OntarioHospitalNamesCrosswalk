@@ -1,0 +1,12 @@
+fac: '793'
+canonical_name: ST THOMAS ELGIN GENERAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: st. thomas elgin general hospital
+  cihi:
+  - name: St. Thomas Elgin General Hospital (Ont.)
+    normalized: ST THOMAS ELGIN GENERAL HOSPITAL ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm

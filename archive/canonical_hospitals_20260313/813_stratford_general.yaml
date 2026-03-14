@@ -1,0 +1,12 @@
+fac: '813'
+canonical_name: STRATFORD GENERAL
+moh_type: Large Community Hospital
+aliases:
+  sunshine:
+  - name: huron perth healthcare alliance
+  cihi:
+  - name: Huron Perth Healthcare Alliance (Ont.)
+    normalized: HURON PERTH HEALTHCARE ALLIANCE ONT
+    source_year: 2025
+    cihi_type: Community—Medium
+    match_status: auto_exact_norm
