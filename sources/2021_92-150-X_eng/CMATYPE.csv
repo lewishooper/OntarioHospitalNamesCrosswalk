@@ -1,8 +1,0 @@
-"TYPE","DESC","FDESC"
-B,Census metropolitan area (CMA),Région métropolitaine de recensement (RMR)
-D,Census agglomeration (CA) that is not tracted,Agglomération de recensement (AR) non subdivisée en secteurs de recensement
-G,Strong metropolitan influenced zone,Zone d'influence métropolitaine forte
-H,Moderate metropolitan influenced zone,Zone d'influence métropolitaine modérée
-I,Weak metropolitan influenced zone,Zone d'influence métropolitaine faible
-J,No metropolitan influenced zone,Aucune zone d'influence métropolitaine
-K,Census agglomeration (CA) that is tracted,Agglomération de recensement (AR) subdivisée en secteurs de recensement

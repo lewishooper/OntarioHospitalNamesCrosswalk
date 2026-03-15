@@ -1,9 +1,0 @@
-"TYPE","DESC","FDESC"
-1,Census subdivision within census metropolitan area,Subdivision de recensement au sein d'une région métropolitaine de recensement
-2,Census subdivision within census agglomeration with at least one census tract,Subdivision de recensement au sein d'une agglomération de recensement comptant au moins un secteur de recensement
-3,Census subdivision within census agglomeration having no census tracts,Subdivision de recensement au sein d'une agglomération de recensement sans secteur de recensement
-4,Census subdivision outside of census metropolitan area/census agglomeration area having strong metropolitan influence,Subdivision de recensement à l'extérieur de la région métropolitaine de recensement ou de l'agglomération de recensement ayant une influence métropolitaine forte
-5,Census subdivision outside of census metropolitan area/census agglomeration area having moderate metropolitan influence,Subdivision de recensement à l'extérieur d'une région métropolitaine de recensement ou d'une agglomération de recensement ayant une influence métropolitaine modérée
-6,Census subdivision outside of census metropolitan area/census agglomeration area having weak metropolitan influence,Subdivision de recensement à l'extérieur d'une région métropolitaine de recensement ou d'une agglomération de recensement ayant une influence métropolitaine faible
-7,Census subdivision outside of census metropolitan area/census agglomeration area having no metropolitan influence,Subdivision de recensement à l'extérieur d'une région métropolitaine de recensement ou d'une agglomération de recensement ayant aucune influence métropolitaine  
-8,Census subdivision within a territory,Subdivision de recensement située dans les territoires
